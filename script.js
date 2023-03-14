@@ -25,5 +25,4 @@ function threeSum(arr, target) {
     }
   }
 
-  return closestSum;
-}
+ 
